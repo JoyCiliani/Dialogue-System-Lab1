@@ -1,0 +1,15 @@
+{
+  "hash": "32a16105",
+  "configHash": "2950aaf1",
+  "lockfileHash": "94828fb8",
+  "browserHash": "13670816",
+  "optimized": {
+    "xstate": {
+      "src": "../../xstate/dist/xstate.development.esm.js",
+      "file": "xstate.js",
+      "fileHash": "341f3360",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
